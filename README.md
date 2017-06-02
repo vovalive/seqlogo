@@ -1,2 +1,8 @@
 # seqlogo
-represent sequences as logo graphics
+
+The script runs through the DNA sequence and adds a line segment for each letter in DNA alphabet: red for adenine, black for  thymine, green for guanine and blue for cytosine. Each line segment also turns for a small angle, right for adenine and thymine, left for guanine or cytosine.
+
+works with python 2.6
+requires pySVG 2.1 version
+
+usage: python seqlogo.py [dna_sequence_ATGC]
