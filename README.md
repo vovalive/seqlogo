@@ -5,6 +5,7 @@ The script runs through the DNA sequence and adds a line segment for each letter
 works with python 2.6
 requires pySVG 2.1 version
 
-usage: python seqlogo.py [dna_sequence_ATGC]
+usage: 
+### python seqlogo.py [dna_sequence_ATGC]
 
 ![Alt text](https://github.com/vovalive/seqlogo/blob/master/photo5300770988465694678.jpg?raw=true "Title")
